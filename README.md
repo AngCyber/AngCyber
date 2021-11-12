@@ -1,4 +1,4 @@
-### Hi there Aang Ardiansyah-XD was here👋
+### Hello brother Aang Ardiansyah-XD was here👋
 
 <!--
 **AngCyber/AngCyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
