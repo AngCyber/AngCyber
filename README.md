@@ -8,11 +8,7 @@
 ##### Ngoding ([Ngocok Standing]()) </>
 ![IMG_20211223_023941](https://user-images.githubusercontent.com/92802033/151725951-15ac7faa-03a0-4fdf-bc42-2550796a1a62.jpg)
 
-
-
-##### Ekspresi Cewe ([Kontol]())
-![FB_IMG_16430779619447721](https://user-images.githubusercontent.com/92802033/151725976-b605cacb-31e4-4d4d-a5d0-7e2803b38eda.jpg)
-
+##### Sebuah Kata Untuk ([Wanita]())
 
 
 <!--
