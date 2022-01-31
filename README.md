@@ -1,14 +1,15 @@
-#### 👋 Hello Ngab, [Aang-XD]() Is Here !
+### 👋 Hello Ngab, [Aang-XD]() Is Here !
 
-##### Contact & Social Media
-- You Tube : [Aang-XD]()
+### Contact & Social Media
+- Yu Tube : [Aang-XD]()
 - WhatsApp : [089524163441]()
 - Facebook : [Aang.XD404]()
 
-##### Ngoding ([Ngocok Standing]()) </>
+### Ngoding ([Ngocok Standing]()) </>
 ![IMG_20211223_023941](https://user-images.githubusercontent.com/92802033/151725951-15ac7faa-03a0-4fdf-bc42-2550796a1a62.jpg)
 
-##### Sebuah Kata Untuk ([Wanita]())
+### Sebuah Kata Untuk ([Wanita]())
+![IMG_20220131_080608](https://user-images.githubusercontent.com/92802033/151726115-769d9ca7-0152-472d-8966-f9d16342cecf.jpg)
 
 
 <!--
