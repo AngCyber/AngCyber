@@ -1,7 +1,7 @@
 ### 👋 Hello Ngab, [Aang-XD]() Is Here !
 
 ### Contact & Social Media
-- Yu Tube : [Aang-XD]()
+- You Tube : [Aang-XD]()
 - WhatsApp : [089524163441]()
 - Facebook : [Aang.XD404]()
 
