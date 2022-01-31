@@ -7,12 +7,7 @@
 
 ##### Ngoding ([Ngocok Standing]()) </>
 
-##### Bacol ([Bahan Colmek]())
-
-
-
-
-
+##### Ekspresi Cewe ([Kontol]())
 
 
 
