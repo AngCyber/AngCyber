@@ -11,6 +11,10 @@
 ### Sebuah Kata Untuk ([Wanita]())
 ![IMG_20220131_080608](https://user-images.githubusercontent.com/92802033/151726115-769d9ca7-0152-472d-8966-f9d16342cecf.jpg)
 
+### Thanks For 
+- [Moch Aang Ardiansyah-XD]()
+- [Kang-Toxic]()
+- [XNX-CODE Team]()
 
 <!--
 **AngCyber/AngCyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
