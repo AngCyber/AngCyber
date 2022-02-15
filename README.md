@@ -1,5 +1,4 @@
 ### 👋 Hello Ngab, [Aang-XD]() Is Here !
-##### [Sebuah Server Untuk Pengecoran :v]()
 
 ### Contact & Social Media
 - You Tube : [Aang-XD]()
@@ -17,6 +16,7 @@
 - [Kang-Toxic]()
 - [XNX-CODE Team]()
 
+### [Sebuah Server Untuk Pengecoran :v]()
 <!--
 **AngCyber/AngCyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
