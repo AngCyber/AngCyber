@@ -8,8 +8,7 @@
 ### Ngoding [Ngocok Standing]() </>
 ![IMG_20211223_023941](https://user-images.githubusercontent.com/92802033/151725951-15ac7faa-03a0-4fdf-bc42-2550796a1a62.jpg)
 
-### Python [Code]()
-![images (1)](https://user-images.githubusercontent.com/92802033/158568640-59c084d4-c42d-49b7-abbb-38e9f857a868.jpeg)
+
 
 ### XNXCODE OFFICIAL
 ![TextCandy_1645387854093 png](https://user-images.githubusercontent.com/92802033/158568770-86c76f29-75c0-4449-88e8-6736018f5474.png)
