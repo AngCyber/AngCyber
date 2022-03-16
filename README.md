@@ -2,14 +2,18 @@
 
 ### Contact & Social Media
 - You Tube : [Aang-XD]()
-- WhatsApp : [089524163441]()
+- WhatsApp : [083177721763]()
 - Facebook : [Aang.XD404]()
 
-### Ngoding ([Ngocok Standing]()) </>
+### Ngoding [Ngocok Standing]() </>
 ![IMG_20211223_023941](https://user-images.githubusercontent.com/92802033/151725951-15ac7faa-03a0-4fdf-bc42-2550796a1a62.jpg)
 
-### Sebuah Kata Untuk ([Wanita]())
-![IMG_20220131_080608](https://user-images.githubusercontent.com/92802033/151726115-769d9ca7-0152-472d-8966-f9d16342cecf.jpg)
+### Python [Code]()
+![images (1)](https://user-images.githubusercontent.com/92802033/158568640-59c084d4-c42d-49b7-abbb-38e9f857a868.jpeg)
+
+### XNXCODE OFFICIAL
+![TextCandy_1645387854093 png](https://user-images.githubusercontent.com/92802033/158568770-86c76f29-75c0-4449-88e8-6736018f5474.png)
+
 
 ### Thanks For 
 - [Moch Aang Ardiansyah-XD]()
