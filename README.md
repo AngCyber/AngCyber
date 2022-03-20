@@ -16,8 +16,8 @@
 
 ### Thanks For 
 - [Moch Aang Ardiansyah-XD]()
-- [Kang-Toxic]()
-- [XNX-CODE Team]()
+
+- [XNX-CODE TEAM]()
 
 ### [Sebuah Server Untuk Pengecoran :v]()
 <!--
