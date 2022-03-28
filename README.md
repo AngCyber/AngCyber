@@ -1,10 +1,11 @@
-### 👋 Hello Ngab, [Aang-XD]() Is Here !
+
+👋 Hello Ngab, [Aang-XD]() Is Here !
 
 ### Contact & Social Media
 ```java
-• WhatsApp : +6283177721763
-• You Tube : Aang-XD
-• Facebook : Facebook.com/Aang.XD404
+</-> WhatsApp : +6283177721763
+</-> You Tube : Aang-XD
+</-> Facebook : Facebook.com/Aang.XD404
 ```
 
 ### Ngoding [Ngocok Standing]() </>
@@ -18,8 +19,8 @@
 
 ### Thanks For
 ```python
-• Moch Aang Ardiansyah-XD
-• XNXCODE TEAM
+</-> Moch Aang Ardiansyah-XD
+</-> XNXCODE TEAM
 ```
 
 <!--
