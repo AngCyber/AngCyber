@@ -14,7 +14,7 @@
 
 
 ### XNXCODE OFFICIAL
-![TextCandy_1645387854093 png](https://user-images.githubusercontent.com/92802033/158568770-86c76f29-75c0-4449-88e8-6736018f5474.png)
+![TextCandy_1654463632545 png](https://user-images.githubusercontent.com/92802033/173084206-869bf1b8-db99-45c0-a920-184f08747504.png)
 
 
 ### Thanks For
