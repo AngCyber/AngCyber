@@ -2,10 +2,9 @@
 👋 Hello Ngab, [Aang-XD]() Is Here !
 
 ### Contact & Social Media
-```java
-</-> WhatsApp : +6283177721763
-</-> You Tube : Aang-XD
-</-> Facebook : Facebook.com/Aang.XD404
+``` Bash
+</-> Instagram : Instagram.com/Aangxd.Qwerty_
+</-> Facebook : Facebook.com/Aang.Qwerty69
 ```
 
 ### Ngoding [Ngocok Standing]() </>
