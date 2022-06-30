@@ -1,25 +1,19 @@
 
 👋 Hello Ngab, [Aang-XD]() Is Here !
 
-### Contact & Social Media
-``` Bash
-</-> Instagram : Instagram.com/Aangxd.Qwerty_
-</-> Facebook : Facebook.com/Aang.Qwerty69
+#### Contact & Social Media
+``` bash
+> WhatsApp bot : +6285600457223
+> Instagram    : Instagram.com/Aangxd.Qwerty_
+> Facebook     : Facebook.com/Aang.Qwerty69
 ```
-
-### Ngoding [Ngocok Standing]() </>
-![IMG_20211223_023941](https://user-images.githubusercontent.com/92802033/151725951-15ac7faa-03a0-4fdf-bc42-2550796a1a62.jpg)
-
-
-### XNXCODE OFFICIAL
+### [XNXCODE OFFICIAL 2021]()
 ![TextCandy_1654463632545 png](https://user-images.githubusercontent.com/92802033/173084206-869bf1b8-db99-45c0-a920-184f08747504.png)
 
-
-### Thanks For
-```python
-</-> Moch Aang Ardiansyah-XD
-</-> XNXCODE TEAM
-</-> TEGAL ENJOYERS - TE
+#### Thanks For
+``` bash
+> Moch Aang Ardiansyah-XD
+> XNXCODE TEAM
 ```
 
 <!--
