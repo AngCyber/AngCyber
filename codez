@@ -1,0 +1,80 @@
+#!/usr/bin/python3
+#coding=utf-8
+
+### module
+import os, sys, rich, time
+import random
+from rich import print as kiya
+from rich.panel import Panel
+### warna
+P = '\x1b[0;97m'
+H = '\x1b[0;92m'
+K = '\x1b[0;93m'
+M = '\x1b[0;91m'
+### warna rich
+M2 = "[#FF0000]"
+H2 = "[#00FF00]"
+K2 = "[#FFFF00]"
+P2 = "[#FFFFFF]"
+### perjalanan
+def jalan(memek):
+	for asu in memek + "\n":
+		sys.stdout.write(asu)
+		sys.stdout.flush()
+		time.sleep(0.04)
+### nanyakeun
+def nanya():
+	os.system("clear")
+	print(f"{H}!> {P}Kenalan dulu biar akrab hehe")
+	__kentod__ = input(f"{H}?> {P}Nama kamu : {H}")
+	if __kentod__ in [""]:
+		jalan("\n!> Ndak boleh kosong");time.sleep(1);nanya()
+### banner
+def __sempak__():
+	os.system("clear")
+	print(f"""
+ __ __    _______ ___
+|  |  \ | |   ___\   \\
+|  |   \| |  |__/  |  \\
+|  |      |   __\  |  /
+| _|  |\__|  | \  ___/
+\/  \/     \/   \/""")
+### menu 
+def __kontol__():
+	os.system("clear")
+	print(f"{H}!> {P}Kenalan dulu biar akrab hehe")
+	__kentod__ = input(f"{H}?> {P}Nama kamu : {H}")
+	if __kentod__ in [""]:
+		jalan("\n!> {P}Ndak boleh kosong");time.sleep(1)__kontol__()
+	os.system("clear")
+	print(f"""
+{H}!> {P}Welcome {H}{__kentod__} {P}kentod\n
+{H}1. {P}Informasi anggota
+{H}2. {P}Join grup wa
+""")
+	__memek__ = input("?> Input : ")
+	if __memek__ in [""]:
+		jalan("\n!> input anda salah");time.sleep(1);__kontol__()
+	elif __memek__ in ["1", "01"]:
+		xnxcode()
+	elif __memek__ in ["2", "02"]:
+		os.system("xdg-open https://chat.whatsapp.com/Lu5CKH3TiUJ2f6k3DuzZtG");__kontol__()
+### pepek
+def xnxcode():
+	print(f"\n{H}!> {P}Admin xnxcode");time.sleep(1)
+	jalan(f" ╰───> {H}Moch Aang XD")
+	print(f"\n\n{H}!> {P}Member xnxcode");time.sleep(1)
+	jalan(f" ╰───> {H}Jecko Ramadhan{P}")
+	jalan(f" ╰───> {H}Yumasaa Tzy{P}")
+	jalan(f" ╰───> {H}Najib XD{P}")
+	jalan(f" ╰───> {H}Aldi Bactiar Rifai{P}")
+	jalan(f" ╰───> {H}Angga Adiy{P}")
+	jalan(f" ╰───> {H}Moch Nazrii XD{P}")
+	jalan(f" ╰───> {H}Viko{P}")
+	print(f"\n\n{H}!> {P}Message me");time.sleep(1)
+	jalan(f" ╰───> {H}Jangan menjadi pelangi untuk orang yang buta warna{P}")
+	jalan(f" ╰───> {H}And, thank you for your support");time.sleep(1)
+	input(f"\n{H}!> {P}tekan enter");__kontol__()
+### selesai
+if __name__ == '__main__':
+	os.system("git pull");__kontol__()
