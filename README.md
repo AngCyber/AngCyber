@@ -4,5 +4,5 @@
 ### Helo, [AangXD]() is here
 <p align=left> <img src=https://komarev.com/ghpvc/?username=AngCyber alt=AngCyber/> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=AngCyber&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/AngCyber/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngCyber&layout=compact&theme=dark)](https://github.com/AngCyber/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=AngCyber&show_icons=true&theme=white&include_all_commits=true)](https://github.com/AngCyber/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngCyber&layout=compact&theme=white)](https://github.com/AngCyber/github-readme-stats)
