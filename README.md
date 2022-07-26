@@ -1,8 +1,4 @@
-![xnxcode](https://user-images.githubusercontent.com/92802033/181089750-68593662-e5ec-4e89-a51c-975c35df5cb6.png)
 
-<p align="center">
-  <img width="1000" height="400" src="https://user-images.githubusercontent.com/xnxcode.png">
-</p>
 <h1 align="center">
   <b>Hello ngab, <b> <a href="https://www.facebook.com/aang.qwerty69" target="blank">Aang XD</a> is here
 </h1>
