@@ -1,23 +1,9 @@
-
-👋 Hello Ngab, [Aang-XD]() Is Here !
-
-#### Contact & Social Media
-``` bash
-> WhatsApp  : +6285600457223
-> Donasi    : Https://saweria.co/AangXD
-> Instagram : Instagram.com/Aangxd.Qwerty_
-> Facebook  : Facebook.com/Aang.Qwerty69
-```
-### [XNXCODE OFFICIAL 2021]()
-![TextCandy_1654463632545 png](https://user-images.githubusercontent.com/92802033/173084206-869bf1b8-db99-45c0-a920-184f08747504.png)
-
-#### Thanks For
-``` bash
-> Moch Aang Ardiansyah-XD
-> XNXCODE TEAM
-```
-
-<!--
-**AngCyber/AngCyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<p1 align="center">
+  <b>Hello ngab, <b> <a href="https://www.facebook.com/Aang.Qwerty69" target="blank">Aang XD</a> is here
+</p1>
+<p align="center">
+  <img width="600" height="220" src="https://github-readme-stats.vercel.app/api?username=AngCyber&show_icons=true&theme=chartreuse-white&locale=id">
+</p1>
+<p align="center">
+  <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngCyber&layout=compact&theme=chartreuse-white">
+</p>
