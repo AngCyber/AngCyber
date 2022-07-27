@@ -6,8 +6,7 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=AngCyber alt=AngCyber/> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=AngCyber&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/AngCyber/github-readme-stats)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngCyber&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AngCyber&layout=compact&theme=tokyonight" />
 
 <!--
 <a href="https://github.com/AngCyber/MultiBF"><img title="MultiBF" src="https://github-readme-stats.vercel.app/api/pin/?username=AngCyber&repo=MultiBF&theme=vision-friendly-monokai"></a>
