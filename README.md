@@ -6,4 +6,7 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=AngCyber alt=AngCyber/> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=AngCyber&show_icons=true&theme=black&include_all_commits=true)](https://github.com/AngCyber/github-readme-stats)
+<a href="https://github.com/AngCyber/MultiBF"><img title="MultiBF" src="https://github-readme-stats.vercel.app/api/pin/?username=AngCyber&repo=MultiBF&theme=vision-friendly-white"></a>
+<a href="https://github.com/AngCyber/F_Crack"><img title="F_Crack" src="https://github-readme-stats.vercel.app/api/pin/?username=AngCyber&repo=F_Crack&theme=vision-friendly-white"></a>
+<a href="https://github.com/AngCyber/web_basis"><img title="web_basis" src="https://github-readme-stats.vercel.app/api/pin/?username=AngCyber&repo=web_basis&theme=vision-friendly-white"></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngCyber&layout=compact&theme=black)](https://github.com/AngCyber/github-readme-stats)
