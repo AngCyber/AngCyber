@@ -4,3 +4,6 @@
 ![xnxcode](https://user-images.githubusercontent.com/92802033/181095877-c5b0ce2f-5bc4-402e-8abb-b2828c4ec01f.png)
 ### Helo, [AangXD]() is here
 <p align=left> <img src=https://komarev.com/ghpvc/?username=AngCyber alt=AngCyber/> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=AngCyber&show_icons=true&theme=black&include_all_commits=true)](https://github.com/AngCyber/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngCyber&layout=compact&theme=black)](https://github.com/AngCyber/github-readme-stats)
