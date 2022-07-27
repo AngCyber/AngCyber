@@ -9,8 +9,6 @@
 <a href="https://github.com/AngCyber/MultiBF"><img title="MultiBF" src="https://github-readme-stats.vercel.app/api/pin/?username=AngCyber&repo=MultiBF&theme=vision-friendly-white"></a>
 <a href="https://github.com/AngCyber/AngCyber"><img title="AngCyber" src="https://github-readme-stats.vercel.app/api/pin/?username=AngCyber&repo=AngCyber&theme=vision-friendly-white"></a>
 <a href="https://github.com/AngCyber/web_basis"><img title="web_basis" src="https://github-readme-stats.vercel.app/api/pin/?username=AngCyber&repo=web_basis&theme=vision-friendly-white"></a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngCyber&layout=compact" alt="Top language">
-
 
 
 
