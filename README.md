@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=5000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Selamat+Datang+Digithub+Aang+XD+Jangan+Lupa+Follow)](https://git.io/typing-svg)
 ### XNXCODE [2021]() TOGETHER
 ![xnxcode](https://user-images.githubusercontent.com/92802033/181095877-c5b0ce2f-5bc4-402e-8abb-b2828c4ec01f.png)
-### Helo, [AangXD]() is here
+### Helo ngab, [AangXD]() is here
 <p align=left> <img src=https://komarev.com/ghpvc/?username=AngCyber alt=AngCyber/> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=AngCyber&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/AngCyber/github-readme-stats)
