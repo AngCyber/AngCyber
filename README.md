@@ -5,8 +5,8 @@
 ### Helo ngab, [AangXD]() is here
 <p align=left> <img src=https://komarev.com/ghpvc/?username=AngCyber alt=AngCyber/> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=AngCyber&show_icons=false&theme=black&include_all_commits=true)](https://github.com/AngCyber/github-readme-stats)
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AngCyber&layout=compact&theme=blue" />
+[![Github stats](https://github-readme-stats.vercel.app/api?username=AngCyber&show_icons=true&theme=white&include_all_commits=true)](https://github.com/AngCyber/github-readme-stats)
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AngCyber&layout=compact&theme=red" />
 
 <!--
 <a href="https://github.com/AngCyber/MultiBF"><img title="MultiBF" src="https://github-readme-stats.vercel.app/api/pin/?username=AngCyber&repo=MultiBF&theme=vision-friendly-monokai"></a>
