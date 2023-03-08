@@ -6,9 +6,6 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=AngCyber alt=AngCyber/> </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=AngCyber&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari Github stats" /><br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngCyber&layout=compact&theme=monokai&langs_count=50"/><br />
 </p>
 <!--
 <a href="https://github.com/AngCyber/MultiBF"><img title="MultiBF" src="https://github-readme-stats.vercel.app/api/pin/?username=AngCyber&repo=MultiBF&theme=vision-friendly-monokai"></a>
-<a href="https://github.com/AngCyber/AngCyber"><img title="AngCyber" src="https://github-readme-stats.vercel.app/api/pin/?username=AngCyber&repo=AngCyber&theme=vision-friendly-monokai"></a>
-<a href="https://github.com/AngCyber/web_basis"><img title="AngCyber" src="https://github-readme-stats.vercel.app/api/pin/?username=AngCyber&repo=web_basis&theme=vision-friendly-monokai"></a>
