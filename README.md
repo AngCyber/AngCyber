@@ -1,6 +1,6 @@
-### XNXCODE [2021]() TOGETHER
+### XNXCODE [2021]() TOGETHER [</>]()
 ![xnxcode](https://user-images.githubusercontent.com/92802033/181095877-c5b0ce2f-5bc4-402e-8abb-b2828c4ec01f.png)
-### Helo ngab, [AangXD]() is here
+### Hello everyone, [AangXD.]() is here
 <p align=left> <img src=https://komarev.com/ghpvc/?username=AngCyber alt=AngCyber/> </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=AngCyber&show_icons=true&include_all_commits=true&theme=white" alt="hossein heydari Github stats" /><br />
